@@ -1,0 +1,2 @@
+The project consists of the base program (created using ladder logic) for the 4-way Traffic Light System in RSLogix 500.
+It also includes an HMI application that is linked to the PLC and the Traffic Light Animations are viewed in FTView ME.
